@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Talha Ali Yousuf from Karachi, Pakistan. 🇵🇰<br><br>🔭 I’m working as a Supply Chain Officer at Pak Suzuki, optimizing flows and fueling efficiency.<br>📚 I'm currently learning Power BI to turn raw data into crystal-clear insights and dashboards.<br>⚡ In my free time I blend creativity and business — crafting content, exploring perfumes, and building my dream fashion brand.</p>
+<p align="left">I'm Talha Ali Yousuf from Karachi, Pakistan. 🇵🇰<br><br>🔭 I’m working as a Supply Chain Officer at Pak Suzuki, optimizing flows and fueling efficiency.<br>📚 I'm currently learning Power BI to turn raw data into crystal-clear insights and dashboards.<br>
 
 ###
 
